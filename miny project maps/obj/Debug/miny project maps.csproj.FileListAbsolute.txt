@@ -1,0 +1,14 @@
+C:\Users\malek\source\repos\miny project maps\miny project maps\obj\Debug\miny project maps.csproj.AssemblyReference.cache
+C:\Users\malek\source\repos\miny project maps\miny project maps\obj\Debug\miny_project_maps.Form1.resources
+C:\Users\malek\source\repos\miny project maps\miny project maps\obj\Debug\miny_project_maps.Properties.Resources.resources
+C:\Users\malek\source\repos\miny project maps\miny project maps\obj\Debug\miny project maps.csproj.GenerateResource.cache
+C:\Users\malek\source\repos\miny project maps\miny project maps\obj\Debug\miny project maps.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\miny project maps\miny project maps\bin\Debug\miny project maps.exe.config
+C:\Users\malek\source\repos\miny project maps\miny project maps\bin\Debug\miny project maps.exe
+C:\Users\malek\source\repos\miny project maps\miny project maps\bin\Debug\miny project maps.pdb
+C:\Users\malek\source\repos\miny project maps\miny project maps\obj\Debug\miny project maps.exe
+C:\Users\malek\source\repos\miny project maps\miny project maps\obj\Debug\miny project maps.pdb
+C:\Users\malek\source\repos\miny project maps\miny project maps\obj\Debug\miny_project_maps.cooinates.resources
+C:\Users\malek\source\repos\miny project maps\miny project maps\bin\Debug\GMap.NET.Core.dll
+C:\Users\malek\source\repos\miny project maps\miny project maps\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\malek\source\repos\miny project maps\miny project maps\obj\Debug\miny project maps.csproj.CopyComplete

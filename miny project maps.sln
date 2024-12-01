@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "miny project maps", "miny project maps\miny project maps.csproj", "{468BC0F9-118B-42A1-A0E2-90949225D96C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{468BC0F9-118B-42A1-A0E2-90949225D96C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{468BC0F9-118B-42A1-A0E2-90949225D96C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{468BC0F9-118B-42A1-A0E2-90949225D96C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{468BC0F9-118B-42A1-A0E2-90949225D96C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {17F5E2CF-0B00-4E6C-A3D6-E6D2DCAF8115}
+	EndGlobalSection
+EndGlobal
